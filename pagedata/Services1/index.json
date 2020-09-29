@@ -1,0 +1,94 @@
+{
+    "About":{
+        "AboutRightImg":"services-1-images/about-image.png",
+        "AboutLeftHeading":"About Our Services",
+        "AboutLeftPara1":" Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "AboutLeftPara2":" Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    "CTABanner":{
+        "BannerImg":"services-1-images/banner-2.jpg",
+        "BannerText":"Let your dream pool design begin right now!",
+        "BannerBtn":"Contact Us"
+    },
+    "ServicesWeProvide":{
+        "ServicesWeProvideHeading":"Services We Provide",
+        "ServiceImg1":"services-1-images/landscaping.svg",
+        "ServiceHeading1":"Landscaping",
+        "ServiceText1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "ServiceImg2":"services-1-images/new-pools.svg",
+        "ServiceHeading2":"New Pools",
+        "ServiceText2":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "ServiceImg3":"services-1-images/pool-repair.svg",
+        "ServiceHeading3":"Pool Repair",
+        "ServiceText3":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "ServiceImg4":"services-1-images/pool-remodel.svg",
+        "ServiceHeading4":"Pool ReModel",
+        "ServiceText4":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "RightImage":"services-1-images/services-image.jpg"
+    },
+    "PoolTypes":{
+        "WhyChooseUsHeading":"Pool Types",
+        "Details":[
+        {
+            "NumberLayout":"services-1-images/rectangle.svg",
+            "SubHeading":"Rectangle Shaped Pools",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+        },
+        {
+            "NumberLayout":"services-1-images/ellipse.svg",
+            "SubHeading":"Ellipse Shaped Pools",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+        },
+        {
+            "NumberLayout":"services-1-images/kidney-shape.svg",
+            "SubHeading":"Kidney Shaped Pools",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+        }
+    ],
+    "RightImage":"services-1-images/image-1.jpg"
+    },
+    "ImageText1":{
+        "WhyChooseUsHeading":"Third Generation Swimming Pool Builder",
+        "Content1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "Content2":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+        "RightImage":"services-1-images/image-2.jpg"
+    },
+    "ImageText2":{
+        "WhyChooseUsHeading":"Energy Efficient Pool Equipment Helps Save",
+        "Content1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "Content2":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+        "RightImage":"services-1-images/image-3.jpg"
+    },
+    "Clients":{
+        "ClientLogoDetails":[
+            {
+                "ClientLogo":"services-1-images/client-1.png"
+            },
+            {
+                "ClientLogo":"services-1-images/client-2.png"
+            },
+            {
+                "ClientLogo":"services-1-images/client-3.png"
+            },
+            {
+                "ClientLogo":"services-1-images/client-4.png"
+            },
+            {
+                "ClientLogo":"services-1-images/client-5.png"
+            }
+        ]
+    },
+    "ServicesGallery":{
+        "GalleryHeading":"Gallery",
+        "PrevImg":"services-1-images/slider-left.svg",
+        "NextImg":"services-1-images/slider-right.svg",
+        "GalleryImage1":"services-1-images/Gallery-1.jpg",
+        "GalleryImage2":"services-1-images/Gallery-2.jpg",
+        "GalleryImage3":"services-1-images/Gallery-3.jpg",
+        "GalleryImage4":"services-1-images/Gallery-4.jpg",
+        "GalleryImage5":"services-1-images/Gallery-5.jpg",
+        "GalleryImage6":"services-1-images/Gallery-6.jpg",
+        "GalleryImage7":"services-1-images/Gallery-7.jpg",
+        "GalleryImage8":"services-1-images/Gallery-8.jpg"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "About":{
+        "AboutRightImg":"aboutus-2-images/about-image.png",
+        "AboutLeftHeading":"We are swimming pool builders and swimming pool service experts",
+        "AboutLeftPara1":" Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "AboutLeftPara2":" Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+
+    "WhyChooseUs":{
+        "LeftImage":"aboutus-2-images/image-1.png",
+        "WhyChooseUsHeading":"Why Choose Us?",
+        "Details":[
+        {
+            "NumberLayout":"aboutus-2-images/experience-icon.svg",
+            "SubHeading":"14+ Years of Experience",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+        },
+        {
+            "NumberLayout":"aboutus-2-images/technician-icon.svg",
+            "SubHeading":"Experienced Pool Technicians",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+        },
+        {
+            "NumberLayout":"aboutus-2-images/regional-cost-icon.svg",
+            "SubHeading":"Regional Cost of Pool Construction",
+            "Content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+        }
+    ]
+    },
+
+    "WhatWeDo":{
+        "WhatWeDoHeading":"What We Do For You?",
+        "Details":[
+            {
+                "WhatWeDoImage":"aboutus-2-images/design & construction.svg",
+                "SubHeading":"Design & Construction",
+                "Content":"Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites"
+            },
+            {
+                "WhatWeDoImage":"aboutus-2-images/maintenance & water treatment.svg",
+                "SubHeading":"Maintenance & Water Treatment",
+                "Content":"Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites"
+            },
+            {
+                "WhatWeDoImage":"aboutus-2-images/swimming pool repair.svg",
+                "SubHeading":"Swimming Pool Repair",
+                "Content":"Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites"
+            },
+            {
+                "WhatWeDoImage":"aboutus-2-images/environmental solutions.svg",
+                "SubHeading":"Environmental Solutions",
+                "Content":"Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites"
+            }
+        ]
+    },
+
+    "Team":{
+        "TeamHeading":"Our Team",
+        "Details":[
+            {
+                "TeamImage":"aboutus-2-images/team-1.jpg",
+                "Name":"Steven Robert",
+                "Designation":"Pool Technician"
+            },
+            {
+                "TeamImage":"aboutus-2-images/team-2.jpg",
+                "Name":"Edward Mark",
+                "Designation":"Pool Constructor"
+            },
+            {
+                "TeamImage":"aboutus-2-images/team-3.jpg",
+                "Name":"Mathew Thomas",
+                "Designation":"Pool Painter"
+            }
+        ]
+    }
+}

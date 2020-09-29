@@ -1,0 +1,21 @@
+{
+    "short_name": "Delta raza studio",
+    "name": "Delta raza studio",
+    "icons": [
+      {
+        "src": "/images/zirconnext.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/zirconnext.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#663399",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#663399"
+  }

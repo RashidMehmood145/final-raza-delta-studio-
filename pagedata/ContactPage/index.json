@@ -1,0 +1,29 @@
+{
+    "ContactDetails":
+    {
+        "ContactCol":
+        [
+            {
+                "ContactIcon":"contactdetails-images/call-icon.svg",
+                "ContactHeading":"Phone",
+                "ContactText":"(02) 65577215, (03) 4525 4565"
+            },
+            {
+                "ContactIcon":"contactdetails-images/mail-icon.svg",
+                "ContactHeading":"Email",
+                "ContactText":"hello@reactrepo.com"
+            },
+            {
+                "ContactIcon":"contactdetails-images/address-icon.svg",
+                "ContactHeading":"Address",
+                "ContactText":"12 Greenlands PI, Pamolah, NYC 2430"
+            }
+        ]
+    },
+
+    "ContactFormData":{
+        "FormHeading":"We Are Open To Discuss",
+        "FormText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "MapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.693826084662!2d-119.26125973630164!3d34.27666884496443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c288f165c8ed99%3A0xd1520310162c62e5!2sSwimming%20Pool%20Repair%20%26%20Service!5e0!3m2!1sen!2sin!4v1579698446302!5m2!1sen!2sin"
+    }
+}
